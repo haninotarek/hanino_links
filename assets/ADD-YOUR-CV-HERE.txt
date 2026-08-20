@@ -1,0 +1,6 @@
+Put your CV here with this EXACT name so the "Download my CV" button works:
+
+    Hanin-Tarek-CV.pdf
+
+(The logo is already built into the page — you don't need to add it.)
+You can delete this note after adding the CV.
